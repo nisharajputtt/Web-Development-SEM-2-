@@ -1,0 +1,15 @@
+.container{
+    background-color: darkseagreen;
+    height:auto;width:auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:100px;
+    width: 100px;
+}
+body{
+    background:white;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
