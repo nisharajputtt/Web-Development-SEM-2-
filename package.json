@@ -1,0 +1,20 @@
+{
+  "name": "npx",
+  "version": "1.0.0",
+  "description": "java script and react",
+  "homepage": "https://github.com/nisharajputtt/Web-Development-SEM-2-#readme",
+  "bugs": {
+    "url": "https://github.com/nisharajputtt/Web-Development-SEM-2-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisharajputtt/Web-Development-SEM-2-.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
